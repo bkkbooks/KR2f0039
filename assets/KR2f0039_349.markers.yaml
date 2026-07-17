@@ -791,6 +791,7 @@ markers:
       ', id: KR2f0039_krp_349-bkkkrnewl176}
   - {type: line-break, offset: 3208, content: '', id: KR2f0039_WYG_349-10b06}
   - {type: punctuation, offset: 3212, content: (, id: KR2f0039_krp_349-bkkpn1}
+  - {type: voice, offset: 3212, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3213, content: /, id: KR2f0039_krp_349-bkkpn2}
   - {type: punctuation, offset: 3213, content: ), id: KR2f0039_krp_349-bkkpn3}
   - {type: substitution, offset: 3213, original: 峒, replacement: 洞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18099}}
@@ -3361,4 +3362,4 @@ markers:
 
       ', id: KR2f0039_krp_349-bkkkrnewl719}
   back: []
-hash: sha256:2624fe9a4f8f06bfe98dff588fd3f018abc7a24679320f191fe427f4b313da98
+hash: sha256:bcd2e5739965f25fc0f5a3032fff7684679473e13211371de0f25c1dc934b6ab
